@@ -48,7 +48,7 @@ int main()
 
 	cout << endl << endl;
 
-	cout << "Qualquer tecla para continuar...";
+	cout << "Aperte qualquer tecla e saia daqui!";
 	system("pause"); // somente no Windows
 	system("cls");
 
